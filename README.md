@@ -4,6 +4,7 @@ IgNews is a project developed at Rocketseat on Ignite's ReactJs track, using Nex
 * Stripe - Simulate the blog subscription.
 * Prismic - Store and load the posts.
 * MongoDB - Store user info and subscription details.
+* Sass - Customization.
 
 
 You can test the app at:
